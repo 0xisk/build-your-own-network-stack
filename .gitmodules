@@ -1,0 +1,4 @@
+[submodule "C-beejs-guide-to-network-programming"]
+	path = C-beejs-guide-to-network-programming
+	url = git@github.com:iskanderandrews/C-beejs-guide-to-network-programming.git
+	branch = master
